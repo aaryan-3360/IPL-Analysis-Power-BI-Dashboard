@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="docs/IPL_Analiysis_.pdf"><b>📄 View Dashboard PDF</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/aaryan-3360/IPL-Analysis-Power-BI-Dashboard/blob/main/docs/IPL_Analyisis_.pdf"><b>📄 View Dashboard PDF</b></a> &nbsp;•&nbsp;
   <a href="IPL_Analiysis_Dashboard.pbix"><b>📥 Download .pbix</b></a> &nbsp;•&nbsp;
   <a href="IPL%20Dataset/IPL%20Dataset.zip"><b>🗂️ Download Dataset</b></a>
 </p>
