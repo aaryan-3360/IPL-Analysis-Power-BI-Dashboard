@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/aaryan-3360/IPL-Analysis-Power-BI-Dashboard/blob/main/docs/IPL_Analyisis_.pdf"><b>📄 View Dashboard PDF</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/aaryan-3360/IPL-Analysis-Power-BI-Dashboard/blob/main/IPL_Analyisis_Dashboard.pbix"><b>📥 Download .pbix</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/aaryan-3360/IPL-Analysis-Power-BI-Dashboard/blob/main/IPL_Analysis_Dashboard.pbix"><b>📥 Download .pbix</b></a> &nbsp;•&nbsp;
   <a href="https://github.com/aaryan-3360/IPL-Analysis-Power-BI-Dashboard/blob/main/IPL%20Dataset/IPL%20Dataset.zip"><b>🗂️ Download Dataset</b></a>
 </p>
 
