@@ -160,11 +160,11 @@ This project is for **educational and portfolio purposes only**. IPL, TATA IPL a
 
 ## 👨‍💻 About Me
 
-**Aaryan**, BCA graduate (CGPA 8.58/10) and Java Full Stack intern, now building a career in **Data Analytics and Software Development**.
+**Aaryan Kamboj**, BCA graduate (CGPA 8.58/10) and Data Analytics intern, now building a career in **Data Analytics and Data Science**.
 
 <p>
   <a href="https://www.linkedin.com/in/aaryan-kamboj123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="aaryankamboj520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aaryankamboj520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/aaryan-3360"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
