@@ -143,12 +143,6 @@ IPL-Analysis-Power-BI-Dashboard/
 
 ---
 
-## 📊 Data Source
-
-Dataset: *(add the dataset name and link here, e.g. Kaggle: IPL Complete Dataset 2008–2025)*
-
----
-
 ## 🚀 Future Improvements
 
 - Add player-level analysis (strike rate, economy, consistency)
@@ -169,9 +163,9 @@ This project is for **educational and portfolio purposes only**. IPL, TATA IPL a
 **Aaryan**, BCA graduate (CGPA 8.58/10) and Java Full Stack intern, now building a career in **Data Analytics and Software Development**.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aaryan-kamboj123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="aaryankamboj520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/aaryan-3360"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ⭐ *If you found this project useful, please give it a star!*
